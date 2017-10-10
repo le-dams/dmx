@@ -1,0 +1,3 @@
+*.Cache
+*.cache
+.DS_Store

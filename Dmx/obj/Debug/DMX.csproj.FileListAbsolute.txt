@@ -1,0 +1,34 @@
+C:\Users\VirtualBox\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\dmx.exe.config
+C:\Users\VirtualBox\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\dmx.exe
+C:\Users\VirtualBox\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\dmx.pdb
+C:\Users\VirtualBox\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Dmx.Form2.resources
+C:\Users\VirtualBox\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Dmx.Form1.resources
+C:\Users\VirtualBox\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Dmx.Form3.resources
+C:\Users\VirtualBox\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Dmx.Properties.Resources.resources
+C:\Users\VirtualBox\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\DMX.csproj.GenerateResource.Cache
+C:\Users\VirtualBox\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\dmx.exe
+C:\Users\VirtualBox\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\dmx.pdb
+Z:\ConsoleApplication1\ConsoleApplication1\bin\Debug\dmx.exe.config
+Z:\ConsoleApplication1\ConsoleApplication1\obj\Debug\dmx.exe
+Z:\ConsoleApplication1\ConsoleApplication1\obj\Debug\dmx.pdb
+\\DISKSTATION\public\ConsoleApplication1\ConsoleApplication1\bin\Debug\dmx.exe.config
+\\DISKSTATION\public\ConsoleApplication1\ConsoleApplication1\obj\Debug\dmx.exe
+\\DISKSTATION\public\ConsoleApplication1\ConsoleApplication1\obj\Debug\dmx.pdb
+\\DISKSTATION\public\ConsoleApplication1\ConsoleApplication1\bin\Debug\dmx.exe
+\\DISKSTATION\public\ConsoleApplication1\ConsoleApplication1\bin\Debug\dmx.pdb
+\\DISKSTATION\public\ConsoleApplication1\ConsoleApplication1\obj\Debug\DMX.csprojResolveAssemblyReference.cache
+\\DISKSTATION\public\ConsoleApplication1\ConsoleApplication1\obj\Debug\Dmx.Form2.resources
+\\DISKSTATION\public\ConsoleApplication1\ConsoleApplication1\obj\Debug\Dmx.Form1.resources
+\\DISKSTATION\public\ConsoleApplication1\ConsoleApplication1\obj\Debug\Dmx.Form3.resources
+\\DISKSTATION\public\ConsoleApplication1\ConsoleApplication1\obj\Debug\Dmx.Properties.Resources.resources
+\\DISKSTATION\public\ConsoleApplication1\ConsoleApplication1\obj\Debug\DMX.csproj.GenerateResource.Cache
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\dmx.exe.config
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\dmx.exe
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\dmx.pdb
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\Dmx.Form2.resources
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\Dmx.Form1.resources
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\Dmx.Form3.resources
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\Dmx.Properties.Resources.resources
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\DMX.csproj.GenerateResource.Cache
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\dmx.exe
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\dmx.pdb

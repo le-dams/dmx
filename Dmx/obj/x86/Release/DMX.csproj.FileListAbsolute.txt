@@ -1,0 +1,22 @@
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\bin\x86\Release\dmx.exe.config
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\bin\x86\Release\dmx.exe
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\bin\x86\Release\dmx.pdb
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\Dmx.Form2.resources
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\Dmx.Form1.resources
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\Dmx.Form3.resources
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\Dmx.Properties.Resources.resources
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\DMX.csproj.GenerateResource.Cache
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\dmx.exe
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\dmx.pdb
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\DMX.csprojResolveAssemblyReference.cache
+Y:\Developper\ConsoleApplication1 - 20150502\ConsoleApplication1\bin\x86\Release\dmx.exe.config
+Y:\Developper\ConsoleApplication1 - 20150502\ConsoleApplication1\obj\x86\Release\dmx.exe
+Y:\Developper\ConsoleApplication1 - 20150502\ConsoleApplication1\obj\x86\Release\dmx.pdb
+Y:\Developper\ConsoleApplication1 - 20150502\ConsoleApplication1\bin\x86\Release\dmx.exe
+Y:\Developper\ConsoleApplication1 - 20150502\ConsoleApplication1\bin\x86\Release\dmx.pdb
+Y:\Developper\ConsoleApplication1 - 20150502\ConsoleApplication1\obj\x86\Release\DMX.csprojResolveAssemblyReference.cache
+Y:\Developper\ConsoleApplication1 - 20150502\ConsoleApplication1\obj\x86\Release\Dmx.Form2.resources
+Y:\Developper\ConsoleApplication1 - 20150502\ConsoleApplication1\obj\x86\Release\Dmx.Form1.resources
+Y:\Developper\ConsoleApplication1 - 20150502\ConsoleApplication1\obj\x86\Release\Dmx.Form3.resources
+Y:\Developper\ConsoleApplication1 - 20150502\ConsoleApplication1\obj\x86\Release\Dmx.Properties.Resources.resources
+Y:\Developper\ConsoleApplication1 - 20150502\ConsoleApplication1\obj\x86\Release\DMX.csproj.GenerateResource.Cache

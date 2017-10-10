@@ -1,0 +1,10 @@
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\dmx.exe.config
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\dmx.exe
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\dmx.pdb
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\Dmx.Form2.resources
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\Dmx.Form1.resources
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\Dmx.Form3.resources
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\Dmx.Properties.Resources.resources
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\DMX.csproj.GenerateResource.Cache
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\dmx.exe
+C:\Users\Damien Bourcy\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\dmx.pdb
